@@ -1,17 +1,10 @@
-# RainBow Toys
+# Rainbow Toys E-Commerce Platform
 
-RainBow Toys is a high-fidelity, enterprise-grade e-commerce storefront built with Angular (v20+), optimized for fluid client performance, security, and immediate business monetization. 
-
-### 🌎 Live Demo
-**[mega-ecommerce-project.pages.dev](https://mega-ecommerce-project.pages.dev)**
+Rainbow Toys is an e-commerce storefront built with Angular, implementing client-side routing, inventory catalog management, and role-gated administration.
 
 ---
 
-## 1. Business Value & ROI
-* **Customer Conversion Speed**: Zero-lag product navigation (immediate routing) ensures maximum customer engagement and minimizes drop-offs during product discovery.
-* **Granular Access Control**: Administrative tasks (inventory management, dashboard stats) are shielded behind authentication guards to prevent unauthorized modifications.
-* **Platform Scalability**: Built with modular component encapsulation and robust HTTP interception, facilitating seamless migration to distributed microservices.
-* **Optimized SPA Deployment**: Out-of-the-box support for client-side routing fallback configurations ensures 100% availability on CDN deployments (Cloudflare Pages).
+## 1. Architecture and Core Specifications
 
 ---
 
