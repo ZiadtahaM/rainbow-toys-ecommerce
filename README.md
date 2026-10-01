@@ -1,5 +1,13 @@
 # Rainbow Toys E-Commerce Platform
 
+
+## Visual Preview
+
+<div align="center">
+  <img src="docs/images/preview.png" alt="Rainbow Toys Multi-Vendor Platform Architecture Interface Preview" width="100%" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);" />
+</div>
+
+
 Rainbow Toys is an e-commerce storefront built with Angular, implementing client-side routing, inventory catalog management, and role-gated administration.
 
 ---
